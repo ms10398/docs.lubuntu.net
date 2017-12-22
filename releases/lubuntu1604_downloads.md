@@ -1,4 +1,4 @@
-# Download lubuntu 16.10
+# Download lubuntu 16.04
 
 ## Select an image
 Lubuntu is distributed on two types of images described below.
