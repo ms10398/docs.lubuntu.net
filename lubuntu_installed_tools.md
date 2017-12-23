@@ -2,21 +2,21 @@
 
 ## lubuntu System Tools
 
-1. [GDebi Package Installer](https://launchpad.net/gdebi): Installs software using .deb files.
+1. [GDebi Package Installer](https://simple.wikipedia.org/wiki/Gdebi): Installs software using .deb files.
 
-2. [Gparted](https://github.com/GNOME/gparted): Allows you to move partitions and check your disk for errors.
+2. [Gparted](https://gparted.org/): Allows you to move partitions and check your disk for errors.
 
 3. [IBus](https://github.com/ibus/ibus): Start IBus, the service for input method entry.
 
-4. [Lubuntu Software Center](https://launchpad.net/lubuntu-software-center): A user-friendly app store, one of many ways to install software.
+4. [Lubuntu Software Center](https://apps.ubuntu.com/cat/applications/precise/lubuntu-software-center/): A user-friendly app store, one of many ways to install software.
 
-5. Print Settings: Add a new Printers using [CUPS](https://en.wikipedia.org/wiki/CUPS).
+5. Print Settings: Add a new Printers using [CUPS](https://www.cups.org/).
 
-6. [Synaptic Package Manager](https://launchpad.net/synaptic)
+6. [Synaptic Package Manager](http://www.nongnu.org/synaptic/)
 
-7. [System Profiler and Benchmark](https://github.com/lpereira/hardinfo): Identifies your computer hardware
+7. [System Profiler and Benchmark](http://hardinfo.org/): Identifies your computer hardware
 
-8. [Task Manager](https://launchpad.net/ubuntu/+source/lxtask): Close unresponsive programs.
+8. [Task Manager](https://wiki.lxde.org/en/LXTask): Close unresponsive programs.
 
 9. Time and Date: Allows you to set time zone, time of day.
 
@@ -26,9 +26,9 @@
 
 12. [Users and Groups](https://help.ubuntu.com/lts/serverguide/user-management.html): Manage user accounts and change passwords
 
-13. [XTerm](https://launchpad.net/ubuntu/+source/xterm): Another terminal emulator.
+13. [XTerm](http://invisible-island.net/xterm/): Another terminal emulator.
 
-14. Windows Wireless Drivers: GUI installer for [Ndiswrapper](https://launchpad.net/ubuntu/+source/ndiswrapper). Allows the use of Windows network drivers on 32-bit Linux. 
+14. Windows Wireless Drivers: GUI installer for [Ndiswrapper](http://ndiswrapper.sourceforge.net). Allows the use of Windows network drivers on 32-bit Linux. 
 
 ## lubuntu Preferences
 
@@ -40,9 +40,9 @@
 
 4. Desktop Session Settings Select programs and services automatically run at startup.
 
-5. Desktop Preferences This is identical to right-clicking on the desktop and selecting preferences. This is Lubuntu/[PCManFM](https://launchpad.net/ubuntu/+source/pcmanfm) desktop preferences.
+5. Desktop Preferences This is identical to right-clicking on the desktop and selecting preferences. This is Lubuntu/[PCManFM](https://wiki.lxde.org/en/PCManFM) desktop preferences.
 
-6. Disk Utility or Disks: [Disk Utility](https://launchpad.net/ubuntu/+source/gnome-disk-utility) Format and mount Disks
+6. Disk Utility or Disks: [Disk Utility](https://wiki.gnome.org/Apps/Disks) Format and mount Disks
 
 7. Input Method Switcher: Input Method Switcher Select input method of asian characters
 
@@ -54,17 +54,17 @@
 
 11. [Lxkeymap](https://launchpad.net/lxkeymap/): LXKeymap Change keyboard layout from American to French, etc.
 
-12. Monitor Settings [LXRandR](https://launchpad.net/ubuntu/+source/lxrandr): Change screen resolution
+12. Monitor Settings [LXRandR](https://wiki.lxde.org/en/LXRandR): Change screen resolution
 
-13. Network Connections: Same as right clicking nm-applet's 'Edit connections' [Network Manager](https://launchpad.net/ubuntu/+source/network-manager).
+13. Network Connections: Same as right clicking nm-applet's 'Edit connections' [Network Manager](https://wiki.gnome.org/Projects/NetworkManager).
 
-14. Openbox Configuration Manager: [obconf](https://launchpad.net/ubuntu/+source/lxappearance-obconf) Window style, Window title fonts, Window Animiations, Double-clicking title bar
+14. Openbox Configuration Manager: [obconf](http://openbox.org/wiki/ObConf:About) Window style, Window title fonts, Window Animiations, Double-clicking title bar
 
-15. Power Manager: [Xfce power manager](https://git.xfce.org/xfce/xfce4-power-manager) Suspend PC when inactive, Lock screen when inactive, laptop screen brightness, power button
+15. Power Manager: [Xfce power manager](http://docs.xfce.org/xfce/xfce4-power-manager/start) Suspend PC when inactive, Lock screen when inactive, laptop screen brightness, power button
 
 16. Preferred Applications: Set default web browser and mail client.
 
-17. Screensaver: [XScreenSaver](https://launchpad.net/ubuntu/+source/xscreensaver) Configure screen saver
+17. Screensaver: [XScreenSaver](https://www.jwz.org/xscreensaver/) Configure screen saver
 
 18. Software Sources: Software Sources Manage sources of software packages, or your system's repositories. 
 
